@@ -8,11 +8,11 @@ This program is use for Solve the **Josephus problem** (or **Josephus permutatio
 
 Calling main Script.
 ```
-> python ./main.py [-h] number
+> python ./main.py [-h] soldiers k
 ```
 Calling application(.exe).
 ```
-> ./Josephus.exe [-h] number
+> ./Josephus.exe [-h] soldiers k
 ```
 
 ## [About Josephus Problem](https://en.wikipedia.org/wiki/Josephus_problem)
